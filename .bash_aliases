@@ -1,0 +1,7 @@
+alias GA='git add '
+alias GC='git commit -m '
+alias GS='git status'
+alias WORK='cd /home/vagrant/Olivier/holbertonschool-low_level_programming/'
+alias TEST='cd /home/vagrant/Olivier/testCmd'
+alias GP='git push'
+alias ggcw='gcc -Wall -Werror -Wextra -pedantic '
