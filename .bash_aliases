@@ -1,4 +1,5 @@
 alias GA='git add '
+alias SS = 'eval `ssh-agent` && ssh-add'
 alias GC='git commit -m "fix"'
 alias GS='git status'
 alias WK='cd ../../vagrant/'
