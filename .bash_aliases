@@ -1,6 +1,6 @@
 alias GA='git add '
 alias GC='git commit -m "fix"'
 alias GS='git status'
-alias WK='cd /home/vagrant/Olivier/holbertonschool-low_level_programming/'
+alias WK='cd ../../vagrant/'
 alias GP='git push'
 alias ggcw='gcc -Wall -Werror -Wextra -pedantic '
